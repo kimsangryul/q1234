@@ -1,19 +1,4 @@
 
-SQL ½Ç½À¿¹Á¦ Practice 1 ~ 4À» ¼öÇàÇÏ¸é¼­ ´ÙÀ½°ú °°ÀÌ spoolÇÏ¿© Á¦ÃâÇÕ´Ï´Ù.
+SQL ì‹¤ìŠµì˜ˆì œ Practice 1 ~ 4ì„ ìˆ˜í–‰í•˜ë©´ì„œ ë‹¤ìŒê³¼ ê°™ì´ spoolí•˜ì—¬ ì œì¶œí•©ë‹ˆë‹¤.
 
-- ½Ç½À ½ÃÀÛ Àü Spool ¼³Á¤
-SQL> spool file_name 
-SQL> ½Ç½ÀÁøÇà
-- ½Ç½À Á¾·á Àü Spool Á¾·á
-SQL> spool off
-SQL> exit
-
-ÇöÀç µð·ºÅä¸®¿¡ »ý¼ºµÈ spool file(È®ÀåÀÚ°¡ lst)À» À©µµ¿ì·Î º¹»çÇÑ ÈÄ ÆíÁýÇÕ´Ï´Ù.
-ÆíÁýµµ±¸´Â ¿öµå, ¸Þ¸ðÀå µî ÀÚÀ¯·Ó°Ô »ç¿ëÇÕ´Ï´Ù.
-Á¦ÃâÇÏ´Â ÆÄÀÏÀÇ ÀÌ¸§ Çü½ÄÀº ÇÐ»ýÀÌ¸§_¹øÈ£·Î ÇÕ´Ï´Ù.(¿¹. È«±æµ¿_¹øÈ£)
-Á¦ÃâÇÒ ÆÄÀÏÀÌ ¿©·¯°³ÀÌ¸é ÇÐ»ýÀÌ¸§.zipÆÄÀÏ·Î ¾ÐÃàÇØ¼­ Á¦ÃâÇÏ½Ã±â ¹Ù¶ø´Ï´Ù.
-Á¦Ãâ±âÇÑÀº 1¿ù 26ÀÏ(±Ý¿äÀÏ) PM 11:00 ÀÔ´Ï´Ù.
-Á¦Ãâ±âÇÑÀÌ Áö³ª¸é µå¶óÀÌºê °øÀ¯¸¦ ÇØÁ¦ÇÒ ¿¹Á¤ÀÌ¿À´Ï Á¦Ãâ±âÇÑÀ» ¾ö¼öÇØ ÁÖ½Ã±â ¹Ù¶ø´Ï´Ù.
-Á¦Ãâ ½Ã »ç¿ëÇÒ ±¸±Û µå¶óÀÌºê ÁÖ¼Ò´Â ´ÙÀ½°ú °°½À´Ï´Ù.
-
-https://drive.google.com/drive/folders/1in7H86F3TsxzluW_brQjvuVLo3_x50na?usp=sharing
+- ì‹¤ìŠµ ì‹œìž‘ ì „ Spool ì„¤ì •
